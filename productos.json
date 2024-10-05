@@ -1,0 +1,7 @@
+[
+  { "nombre": "Pintorcitos", "precio": 100, "imagen": "img/pintorcito.jpg" },
+  { "nombre": "Fundas para cuadernos", "precio": 50, "imagen": "img/fundas para cuadernos.png" },
+  { "nombre": "Matero", "precio": 150, "imagen": "img/matero.png" },
+  { "nombre": "Cartucheras", "precio": 75, "imagen": "img/cartuchera.jpeg" },
+  { "nombre": "Porta pinceles", "precio": 120, "imagen": "img/porta pinceles.jpg" }
+]
