@@ -196,7 +196,7 @@ function mostrarFormulario() {
     
     form.onsubmit = (e) => {
         e.preventDefault();
-        Swal.fire("¡Formulario enviado!", "Gracias por completar tus datos.", "success");
+        Swal.fire("Gracias por completar tus datos.","En breve nos comunicaremos por su compra." , "success");
 
         
         vaciarCarrito();
